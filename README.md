@@ -31,8 +31,7 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-<!--   <a href="https://sudang-devlog.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://sudang-devlog.tistory.com/"/></a>&nbsp -->
-  <a href="https://sugar-myrtle-9d5.notion.site/Backend-Developer-ea19aab81a14402da0c2c57bfff58709?pvs=4"><img src="https://img.shields.io/badge/Resume-E4405F?style=flat-square&logo=Notion&logoColor=white&link=https://sugar-myrtle-9d5.notion.site/Backend-Developer-ea19aab81a14402da0c2c57bfff58709?pvs=4"/></a>&nbsp
+  <!--<a href="https://sugar-myrtle-9d5.notion.site/Backend-Developer-ea19aab81a14402da0c2c57bfff58709?pvs=4"><img src="https://img.shields.io/badge/Resume-E4405F?style=flat-square&logo=Notion&logoColor=white&link=https://sugar-myrtle-9d5.notion.site/Backend-Developer-ea19aab81a14402da0c2c57bfff58709?pvs=4"/></a>&nbsp-->
   <a href="mailto:tidh1640@naver.com"><img src="https://img.shields.io/badge/mail-30B980?style=flat-square&logo=minutemailer&logoColor=white&link=tidh1640@naver.com"/></a>
 </p>
 <br>
