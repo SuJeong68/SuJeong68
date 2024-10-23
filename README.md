@@ -2,7 +2,7 @@
 
 <p align="center">
 안녕하세요 👋<br>
-저는 백엔드를 공부하고 있는 이수정입니다!<br>
+백엔드 개발자 이수정입니다!<br>
 기초탄탄하게 꾸준히 성장하겠습니다 💪
 </p>
 
@@ -12,18 +12,18 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+<!--   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>&nbsp  -->
+<!--   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white"/></a>&nbsp  -->
+<!--   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp -->
+<!--   <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp  -->
   <br>
-  <img src="https://img.shields.io/badge/QueryDSL-4479A1?style=flat-square&logo=QueryDSL&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Maven&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=Junit5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
+<!--   <img src="https://img.shields.io/badge/QueryDSL-4479A1?style=flat-square&logo=QueryDSL&logoColor=white"/></a>&nbsp -->
+<!--   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp  -->
+<!--   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp  -->
+<!--   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Maven&logoColor=white"/></a>&nbsp  -->
+<!--   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp  -->
+<!--   <img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=Junit5&logoColor=white"/></a>&nbsp  -->
+<!--   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp  -->
 </p>
   
 <br>
