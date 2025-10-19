@@ -35,9 +35,5 @@
 </p>
 <br>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuJeong68&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuJeong68&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tidh1640)](https://solved.ac/tidh1640/)
